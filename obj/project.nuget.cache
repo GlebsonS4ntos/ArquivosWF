@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDN2yLMpARfqUQrCXJK8fOZlph61PtROjVgAaKUaMQ+XdWLQiCqI+mE/6iR9f419nDQTO02Km9Fm1zQcWUF64Q==",
+  "success": true,
+  "projectFilePath": "E:\\ProjetosCast\\CsharpIntermediario\\App24\\App24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glebs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
